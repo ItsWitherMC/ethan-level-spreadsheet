@@ -1,0 +1,24 @@
+{
+  "name": "ethananimatez-hangout-spreadsheet",
+  "version": "1.0.0",
+  "description": "idk",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ItsWitherMC",
+  "license": "ISC",
+  "dependencies": {
+    "google-spreadsheet": "^3.0.11",
+    "mee6-levels-api": "^1.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsWitherMC/ethan-level-spreadsheet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ItsWitherMC/ethan-level-spreadsheet/issues"
+  },
+  "homepage": "https://github.com/ItsWitherMC/ethan-level-spreadsheet#readme"
+}

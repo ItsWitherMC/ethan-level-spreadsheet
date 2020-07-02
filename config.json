@@ -1,0 +1,5 @@
+{
+    "note": "This is used when I used request module to fetch stuff from Mee6 server. Now I use mee6-levels-api",
+    "endpoints": "https://mee6.xyz/api/plugins/levels/leaderboard/",
+    "guildId": "680581238444392580"
+}
